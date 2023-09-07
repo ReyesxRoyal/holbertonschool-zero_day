@@ -1,0 +1,8 @@
+#!/bin/bash
+
+cat > school <<__EOF__
+#!/bin/bash
+
+
+
+echo "School"
